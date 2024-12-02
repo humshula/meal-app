@@ -1,6 +1,6 @@
-# Meal Finder App
+# Meal  App
 
-Welcome to the Meal Finder App, a simple web application that helps you search for meals using a third-party API. You can view search results, add meals to your favorites, and view detailed information about each meal.
+Welcome to the Meal  App, a simple web application that helps you search for meals using a third-party API. You can view search results, add meals to your favorites, and view detailed information about each meal.
 
 ## Table of Contents
 
@@ -50,16 +50,8 @@ Before you start, make sure you have the following:
 - A web browser installed on your computer.
 - An internet connection to fetch data from the API.
 
-### Installation
 
-1. Clone this repository to your local machine:
 
-   ```bash
-   git clone https://github.com/Mansi523/MealApp.git
-
-### AUTHOR
-
- # Mansi Kumari
 
 ### LANDING PAGE
 <a href="mansi523.github.io/MealApp/"><img src="https://i.ibb.co/vY3Z7SB/mansimeal.png" alt="LAND PAGE" /></a>
