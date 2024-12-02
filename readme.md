@@ -68,6 +68,4 @@ Before you start, make sure you have the following:
 ### FOOTER
 <a href="mansi523.github.io/MealApp/"><img src="https://i.ibb.co/HHwdWfV/mansif.png" alt="mansif"></a>
 
-### DEMO
 
-- https://mansi523.github.io/MealApp/
