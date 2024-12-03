@@ -2,16 +2,7 @@
 
 Welcome to the Meal  App, a simple web application that helps you search for meals using a third-party API. You can view search results, add meals to your favorites, and view detailed information about each meal.
 
-## Table of Contents
 
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Technologies Used
 
